@@ -1,0 +1,17 @@
+<html ng-app="mainApp">
+<head>
+	<script src="angular.min-1.6.4.js"></script>
+</head>
+<body ng-controller = "myController">
+<p>this is first angular program</p>
+</body>
+
+<script>
+var myModule = angular.module("mainApp",[]);  //register a module in angular
+myModule.controller("myController",main); //module is binded with function & controller
+
+function main() {
+	console.log("this is first angular function - main called");
+	}	
+</script>
+</html>
