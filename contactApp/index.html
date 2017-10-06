@@ -1,0 +1,12 @@
+<html ng-app="contactApp">
+	<head >					
+			<script src="../angular.min-1.6.4.js"></script>
+			<script src="app.js"></script>
+	</head>
+	<body>
+		<div ng-controller = "contactController as ctrl">
+			{{ctrl.selectedContact.name}}+""+{{ctrl.selectedContact.last}}
+		</div>					
+		
+	</body>
+</html>

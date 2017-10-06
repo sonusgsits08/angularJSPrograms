@@ -1,0 +1,19 @@
+<html ng-app="repeatApp">
+	<head >					
+			<script src="../angular.min-1.6.4.js"></script>
+			<script src="app.js"></script>
+			<script src="baseModule.js"></script>
+	</head>
+	<body>
+		<div ng-controller = "repeatController as repeatCtrl">
+				<div ng-repeat="elem in repeatCtrl.myList">  
+				<span>name :           {{elem.name}}</span>
+				<span>age :  {{elem.age}}</span>
+				<hr>
+				</div>
+
+				</div>
+		</div>					
+		
+	</body>
+</html>
