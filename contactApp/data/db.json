@@ -1,0 +1,106 @@
+{
+  "contacts": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "siyaram",
+        "last": "vishwakarma"
+      },
+      "location": {
+        "street": "2131 mannerheimintie",
+        "city": "bhopal1",
+        "state": "uusimaa",
+        "postcode": 82210
+      },
+      "email": "eemeli.savela@example.com",
+      "login": {
+        "username": "bigostrich644",
+        "password": "biao",
+        "salt": "QdRtJYCY",
+        "md5": "bb996faf246efa16fdd27b4299a3ff8a",
+        "sha1": "f0baf18686f791ddf13c4b80b16e24ab26766547",
+        "sha256": "aeba12e96503ac6aae7610b492b0f40b1a495b17224d30df82e847d134c10ce2"
+      },
+      "dob": "1988-10-22 22:45:55",
+      "registered": "2003-02-10 17:52:29",
+      "phone": "03-243-890",
+      "cell": "040-765-71-53",
+      "id": 1,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/17.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+      },
+      "nat": "FI"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "monsieur",
+        "first": "sunil",
+        "last": "vishwakarma"
+      },
+      "location": {
+        "street": "4660 montée du chemin-neuf",
+        "city": "bhopal",
+        "state": "mp",
+        "postcode": 5786
+      },
+      "email": "robin.michel@example.com",
+      "login": {
+        "username": "ticklishswan197",
+        "password": "knock",
+        "salt": "QrKwyd8C",
+        "md5": "70baf9e881ecf683337fac5a8054af5e",
+        "sha1": "5df19768dd49ed44bbe682ba431c480b9b6274fc",
+        "sha256": "31cd1f997b85487c68b3112fbe5580d087739fb924cc8318eee07c6991f59fce"
+      },
+      "dob": "1988-03-27 18:30:17",
+      "registered": "2004-01-24 13:55:25",
+      "phone": "(219)-729-1615",
+      "cell": "(639)-213-5217",
+      "id": 2,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/7.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "shivani",
+        "last": "vishwakarma"
+      },
+      "location": {
+        "street": "9682 paseo de extremadura",
+        "city": "sehore",
+        "state": "andalucía",
+        "postcode": 46384
+      },
+      "email": "clara.dominguez@example.com",
+      "login": {
+        "username": "bigpanda678",
+        "password": "1dragon",
+        "salt": "7Kc2zGfy",
+        "md5": "8d0b391e231479c3a4716de8c093d643",
+        "sha1": "1f083216eb624951ed4d6f8103f4d22653bf29d4",
+        "sha256": "2fb0870764c06085d35407abd70069163e924c89887ce7d0425d14e898a2410a"
+      },
+      "dob": "1975-05-11 12:16:10",
+      "registered": "2013-04-22 17:33:42",
+      "phone": "985-837-054",
+      "cell": "682-417-201",
+      "id": 3,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+      },
+      "nat": "ES"
+    }
+  ]
+}

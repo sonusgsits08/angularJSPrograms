@@ -1,0 +1,14 @@
+<html ng-app="addSpaceApp">
+	<head >					
+			<script src="../angular.min-1.6.4.js"></script>
+			<script src="app.js"></script>			
+			<script src="addspace.component.js"></script>			
+	</head>
+	<body>		
+	<div ng-controller="processController">
+		<input type="text" ng-model="input"/>
+		<input type="text" ng-model="output"/>
+		<button ng-click="transformString(input)">ProcessString</button>
+	<div>
+	</body>
+</html>
